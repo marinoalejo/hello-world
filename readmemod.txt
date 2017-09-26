@@ -1,0 +1,4 @@
+# hello-world
+Repository for Ideas to share
+share with other people with similar interest
+need to change this line 
